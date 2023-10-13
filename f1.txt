@@ -1,6 +1,6 @@
 1 - one
 2 - two
 3 - three
-A
-B
-C
+A - apple
+B - Bat
+C - cat
